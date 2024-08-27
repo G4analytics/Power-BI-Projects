@@ -35,3 +35,12 @@ This measure reveals the number of different values in a column, in this example
 5.1. I configured a conditional formatting for the column "Sold (millions)"
 Field components > choose the column "Sold (millions) > activate background > formatting style > Gradient > Apply to values > Lowest value with a color and highest value with another.
 The conditional formatting is really useful because we can see really fast the better games economically talking (or the worst)
+
+#### Template
+
+I created this Template using Freepik (background) and Power Point to create the place holders for the charts.
+
+#### Images
+
+![image](https://github.com/user-attachments/assets/ebbdf16a-39a8-477c-9417-fedd529675d4)
+

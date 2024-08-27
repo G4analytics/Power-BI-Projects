@@ -1,5 +1,5 @@
 
-# Sales Report: Videogames  
+# Sales Report: Video games  
 
 This dashboard helps us to understand how video games's sales have been changing over time and depending on the Region, Platform and  year as some examples.
 

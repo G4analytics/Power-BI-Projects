@@ -30,7 +30,8 @@ This measure reveals the number of different values in a column, in this example
 2. I placed a "Delete filters" button which let us delete every selection we have done before in every slicer
 3. In this example i created 3 bar charts. "Sold by Category and Region","Sold by Platform and Region" and "Sold by Year and Region". Every one ofthem have the same Leyend -> Region.
 4. A donut chart to understand the Sales by Region with porcentages
-5. A table that explains the "Sales details" with 5 colums. 
+5. A table that explains the "Sales details" with 5 colums.
+ 
 5.1. I configured a conditional formatting for the column "Sold (millions)"
 Field components > choose the column "Sold (millions) > activate background > formatting style > Gradient > Apply to values > Lowest value with a color and highest value with another.
 The conditional formatting is really useful because we can see really fast the better games economically talking (or the worst)
